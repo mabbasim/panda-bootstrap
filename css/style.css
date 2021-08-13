@@ -1,0 +1,22 @@
+.panda-bg-info {
+  background-color: #fceae8;
+}
+.categories img {
+  width: 100px;
+}
+.panda-btn-buy-now {
+  color: white;
+  background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+  border-radius: 8px;
+  border: none;
+  padding: 9px 25px;
+}
+.panda-bg-warning {
+  background: linear-gradient(152.07deg, #ff9c35 1.47%, #ffd019 97.17%);
+}
+.panda-bg-pink {
+  background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+}
+.panda-bg-primary {
+  background: linear-gradient(170.41deg, #4289ff -10.89%, #3f07f8 92.77%);
+}
